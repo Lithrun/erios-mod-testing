@@ -1,0 +1,56 @@
+{
+  "Id": "X00-0000",
+  "Name": "Generated",
+  "Elements": [
+    {
+      "$type": "Erios.Core.Elements.ElementObjectData, Erios",
+      "Model": "PCB-0001",
+      "Physics": true,
+      "Position": "-0.889543, 0.88572747, -5.53001",
+      "Rotation": "-0, 0, 0",
+      "Scale": "1, 1, 1",
+      "Children": [
+        {
+          "$type": "Erios.Core.Elements.ElementText3DData, Erios",
+          "Text": "UP",
+          "TextColor": "116 42 255",
+          "TextOutlineColor": "67 65 1",
+          "FaceCamera": false,
+          "Position": "0, 1.0108241, 0",
+          "Rotation": "-1.5707964, 0, 0",
+          "Scale": "1, 1, 1",
+          "Children": [
+            {
+              "$type": "Erios.Core.Elements.ElementLightData, Erios",
+              "Shadow": false,
+              "Position": "0, 0.008684635, 0.06885719",
+              "Rotation": "-0, 0, 0",
+              "Scale": "1, 1, 1",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "$type": "Erios.Core.Elements.ElementText3DData, Erios",
+          "Text": "DOWN",
+          "TextColor": "116 42 255",
+          "TextOutlineColor": "67 65 1",
+          "FaceCamera": false,
+          "Position": "0, -0.060904503, 0",
+          "Rotation": "1.5707964, 0, 0",
+          "Scale": "1, 1, 1",
+          "Children": [
+            {
+              "$type": "Erios.Core.Elements.ElementLightData, Erios",
+              "Shadow": false,
+              "Position": "0, 0.008684635, 0.06885719",
+              "Rotation": "-0, 0, 0",
+              "Scale": "1, 1, 1",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
